@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "snapshot_id": "2026-10-12T113930_0800_d90a61388cc3",
+  "as_of": "2026-10-12T11:39:30+08:00",
+  "latest_verified_at": "2026-10-12T11:39:30+08:00",
+  "catalog": {
+    "file": "api/catalog.json",
+    "sha256": "53cdc9abacb0b01c60b776425176f8d5ee54e40caa90d733ddb7795aa22c30e6",
+    "stats": {
+      "models": 551,
+      "registeredProviders": 79,
+      "verifiedProviders": 44,
+      "relationships": 1927
+    },
+    "monitored_models": 186
+  },
+  "sources": [
+    {
+      "file": "provider_registry.json",
+      "sha256": "f7865a04ccbaa1f5e33faf66150d182106646c20406ea9445ccb3f59c2ba4cbc",
+      "items": 79
+    },
+    {
+      "file": "model_identity_registry.json",
+      "sha256": "40ad6732229b7f9b5b5cdedcf0b099f6be16e1339e04b1aeaa3eb2e994af19ef",
+      "items": 975
+    },
+    {
+      "file": "availability_matrix.json",
+      "sha256": "b7f8f80eb245b5dceedf8b2f9ae95ea08cc0703f9542ef3c87af4f21b747188a",
+      "items": 2535
+    },
+    {
+      "file": "model_channel_summary.json",
+      "sha256": "61899cfcf1002288187c76bacf7bde34f4070c5b0dc408c66e93dffcc28ce323",
+      "items": 975
+    },
+    {
+      "file": "channel_events.json",
+      "sha256": "39cb634613aebc4ba9a3ed4785eb15c537221b7200c08ce61a65f9924850c5f5",
+      "items": 81
+    }
+  ]
+}
