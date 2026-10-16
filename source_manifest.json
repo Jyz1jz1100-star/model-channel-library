@@ -2,10 +2,10 @@
   "schema_version": "1.0",
   "snapshot_id": "2026-10-16T120023_0800_59663bc42afe",
   "as_of": "2026-10-16T12:00:23+08:00",
-  "latest_verified_at": "2026-10-16T12:00:23+08:00",
+  "latest_verified_at": "2026-10-16T11:22:05+08:00",
   "catalog": {
     "file": "api/catalog.json",
-    "sha256": "253936a5dd56e843d41484c67594137d4e46a325174ac67e72fbab4fff7717b7",
+    "sha256": "4c9c5253d5f7d88c29610114b25144c192dcf144672f49eeb15667377f98042f",
     "stats": {
       "models": 549,
       "registeredProviders": 80,
