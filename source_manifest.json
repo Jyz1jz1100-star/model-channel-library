@@ -1,44 +1,44 @@
 {
   "schema_version": "1.0",
-  "snapshot_id": "2026-10-16T120023_0800_59663bc42afe",
-  "as_of": "2026-10-16T12:00:23+08:00",
-  "latest_verified_at": "2026-10-16T11:22:05+08:00",
+  "snapshot_id": "2026-10-17T164859_0800_914aa0329ec1",
+  "as_of": "2026-10-17T16:48:59+08:00",
+  "latest_verified_at": "2026-10-17T15:12:01.408072+08:00",
   "catalog": {
     "file": "api/catalog.json",
-    "sha256": "4c9c5253d5f7d88c29610114b25144c192dcf144672f49eeb15667377f98042f",
+    "sha256": "72a0d23ed05b6be832daf8952f41326ee71b08b6c42c823a42df81237a62429f",
     "stats": {
-      "models": 549,
-      "registeredProviders": 80,
-      "verifiedProviders": 45,
-      "relationships": 1930
+      "models": 2597,
+      "registeredProviders": 90,
+      "verifiedProviders": 76,
+      "relationships": 5485
     },
-    "monitored_models": 202
+    "monitored_models": 214
   },
   "sources": [
     {
       "file": "provider_registry.json",
-      "sha256": "66383235a2c6cb6f433cdd7d13368140102d0e50ac690b5266a0f804b29b9d84",
-      "items": 80
+      "sha256": "31cdcaabe96974d1beaaea719bea373e050a87ef084c86afa37057e92f273e14",
+      "items": 90
     },
     {
       "file": "model_identity_registry.json",
-      "sha256": "b831dce24719a38de189e676acdbb369b43b2be48fa57f059802d7a8645aaea1",
-      "items": 1063
+      "sha256": "7b8eaa8e9be07bf4ea3c16900e64f7a96f620a815452264ebf52af1e73f13857",
+      "items": 3398
     },
     {
       "file": "availability_matrix.json",
-      "sha256": "ae7f9c30264c3c475f61b7e017526bf7324c136f75431e16061b7cd34b2e5c2e",
-      "items": 2698
+      "sha256": "fee86b3813668adbc4a650db0a8f6ea9b979262e847a534971a05b59b1f55a4d",
+      "items": 7195
     },
     {
       "file": "model_channel_summary.json",
-      "sha256": "7f176527954b514ffd9f65d782b7ed53903c5c446fc2c5bcc6f1f92ef7eec288",
-      "items": 1063
+      "sha256": "7522365785f8f74f13fd7f431fc37c2104248de233d322d62986e0353cbd0ddc",
+      "items": 3398
     },
     {
       "file": "channel_events.json",
-      "sha256": "6c7af64581850d4486f49d4d5194ccc9bc89abd17e86a80ec250fd73e1306845",
-      "items": 56
+      "sha256": "66c0ab2e595a201c6b8da69102876af7233b845f8965bbda636e0359273fab06",
+      "items": 6211
     }
   ]
 }
