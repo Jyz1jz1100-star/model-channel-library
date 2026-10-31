@@ -1,44 +1,49 @@
 {
   "schema_version": "1.0",
-  "snapshot_id": "2026-10-21T163514_0800_e78866e5291b",
-  "as_of": "2026-10-21T16:35:14+08:00",
-  "latest_verified_at": "2026-10-21T16:27:10.645555+08:00",
+  "snapshot_id": "2026-10-31T172416_0800_e73d7f365124",
+  "as_of": "2026-10-31T17:24:16+08:00",
+  "request_identifier_review": {
+    "sha256": "1b8f0dde6d96a891c9294a3cf35a2c340c5da29405705c233427ba7c4bee55c3",
+    "source_snapshot_id": "2026-10-31T172416_0800_e73d7f365124",
+    "applied_options": 2
+  },
+  "latest_verified_at": "2026-10-31T16:55:24.614711+08:00",
   "catalog": {
     "file": "api/catalog.json",
-    "sha256": "5dada0dea90e3bed5da7af575d68886718157bde2d18f01646fb6260a129e437",
+    "sha256": "33af2e6f9e66cc3a67e8e4e5d20414943568fa8c9663822cc13ac2f89f0cf279",
     "stats": {
-      "models": 2702,
-      "registeredProviders": 91,
-      "verifiedProviders": 79,
-      "relationships": 5878
+      "models": 2759,
+      "registeredProviders": 99,
+      "verifiedProviders": 86,
+      "relationships": 6619
     },
-    "monitored_models": 635
+    "monitored_models": 956
   },
   "sources": [
     {
       "file": "provider_registry.json",
-      "sha256": "b84e14203835c4127a0fc40f94fbee8ece73dc4162ddc76a139a9979cccab4c0",
-      "items": 91
+      "sha256": "7855a35a731c1e9064f8255480cfad9a93bda68d35f13910c91c1c8e8ce0e4d8",
+      "items": 99
     },
     {
       "file": "model_identity_registry.json",
-      "sha256": "4c9fe99e2e76e1a256f71fb7f5104976e6a44a1323af737ec1aabc7ad8cf80d3",
-      "items": 4743
+      "sha256": "ae43da156726c9c8128e8fed4fe8941eb8bf54e2aa3877f3594c1c631f234bfc",
+      "items": 5444
     },
     {
       "file": "availability_matrix.json",
-      "sha256": "ce927fa53828eadf07befeb845c60f8b6195604acc1ef37cdb6a9026eee33b59",
-      "items": 9299
+      "sha256": "36b5d23a874cdd1d1ca5cd2ef41173c58ee073442567fa24366743e11fbd820b",
+      "items": 10766
     },
     {
       "file": "model_channel_summary.json",
-      "sha256": "1487461a0dc35c8522efbbf2866e72b3debb0194e7c8cd6ebae96b0cb10ce759",
-      "items": 4743
+      "sha256": "421470bd12d4b1019343b4456f1c8e00df6bc784144b49c3f958a71f4d24e914",
+      "items": 5444
     },
     {
       "file": "channel_events.json",
-      "sha256": "1481b76e4f1c174f8f2cc17e39e7f8108abdd64edd069705c097f9d4b0e914ad",
-      "items": 88
+      "sha256": "acf51a0d9ef28b1b012c6131bb0b40d7bc1522a7ecb8180fd70cc25b7e3a3673",
+      "items": 2579
     }
   ]
 }
