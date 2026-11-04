@@ -2,10 +2,15 @@
   "schema_version": "1.0",
   "snapshot_id": "2026-11-04T112047_0800_b1c877822c57",
   "as_of": "2026-11-04T11:20:47+08:00",
+  "request_contract_review": {
+    "sha256": "ea17e275cf38a95868bb374979f8b4b943251cdb68c9bb1a6a214a1b05d6538b",
+    "source_snapshot_id": "2026-11-04T112047_0800_b1c877822c57",
+    "applied_options": 2
+  },
   "latest_verified_at": "2026-11-04T02:51:07.925589+00:00",
   "catalog": {
     "file": "api/catalog.json",
-    "sha256": "c6a00fb5a3011d7238b19a3a3b1565500afeebcbccadb826daea886e59dea4e3",
+    "sha256": "121b569200ac9c6b4d52458a20f74219847011df7df4c175e4900ffef12b00d0",
     "stats": {
       "models": 2848,
       "registeredProviders": 104,
