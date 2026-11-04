@@ -5,7 +5,7 @@
   "latest_verified_at": "2026-11-04T02:51:07.925589+00:00",
   "catalog": {
     "file": "api/catalog.json",
-    "sha256": "f6b0acdefee5d58018b1d9e49fc7fb57420976ebddc9e1a0f7b1ff850b9be6d2",
+    "sha256": "c6a00fb5a3011d7238b19a3a3b1565500afeebcbccadb826daea886e59dea4e3",
     "stats": {
       "models": 2848,
       "registeredProviders": 104,
