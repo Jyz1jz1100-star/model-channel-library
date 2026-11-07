@@ -1,49 +1,49 @@
 {
   "schema_version": "1.0",
-  "snapshot_id": "2026-11-04T112047_0800_b1c877822c57",
-  "as_of": "2026-11-04T11:20:47+08:00",
+  "snapshot_id": "2026-11-07T151028_0800_238be5c48065",
+  "as_of": "2026-11-07T15:10:28+08:00",
   "request_contract_review": {
-    "sha256": "ea17e275cf38a95868bb374979f8b4b943251cdb68c9bb1a6a214a1b05d6538b",
-    "source_snapshot_id": "2026-11-04T112047_0800_b1c877822c57",
+    "sha256": "ad4273782db050e01df608f658cc0d80c22b941ab91a39aaf5c38f8aa13cf05f",
+    "source_snapshot_id": "2026-11-07T151028_0800_238be5c48065",
     "applied_options": 2
   },
-  "latest_verified_at": "2026-11-04T02:51:07.925589+00:00",
+  "latest_verified_at": "2026-11-07T14:27:03.355637+08:00",
   "catalog": {
     "file": "api/catalog.json",
-    "sha256": "121b569200ac9c6b4d52458a20f74219847011df7df4c175e4900ffef12b00d0",
+    "sha256": "0dd08e29a8f3862b86948fd647ea31b77a8e5b88ed8abc9351c24370354e4c9e",
     "stats": {
-      "models": 2848,
-      "registeredProviders": 104,
-      "verifiedProviders": 87,
-      "relationships": 6471
+      "models": 2828,
+      "registeredProviders": 111,
+      "verifiedProviders": 97,
+      "relationships": 7010
     },
-    "monitored_models": 1376
+    "monitored_models": 1694
   },
   "sources": [
     {
       "file": "provider_registry.json",
-      "sha256": "71e9e5cfcbbe3991d63f0f4da72707212901cb1fb701075261302b27621be1f5",
-      "items": 104
+      "sha256": "1a98efa8f1954a74507fcc965ef4d312e876c5bb1dd551e97b2f41fc1d6b1c2d",
+      "items": 111
     },
     {
       "file": "model_identity_registry.json",
-      "sha256": "d2616b866c766735cdcb3993583d915e232a99cb4eb704daa8190b6ac2bacab5",
-      "items": 5993
+      "sha256": "36b4b6df24ce519cd3a734ef3539d3934f9fc950d8464bbf947dd0a2557063a3",
+      "items": 6542
     },
     {
       "file": "availability_matrix.json",
-      "sha256": "740348a3598c9f286320fcbf3a7ca2f099952e2246f73f3675feb780f251751d",
-      "items": 11648
+      "sha256": "5fa66186f977b1b57d97d85bf9c317312efbf63c6a64302af21b4b98da57f86f",
+      "items": 12171
     },
     {
       "file": "model_channel_summary.json",
-      "sha256": "6bb64c7661b44f512141df779cd61a92230af472ea0c874045a36042510a27c3",
-      "items": 5993
+      "sha256": "99ba5a33a062a18f6a998bce245a39c5811e6962df43176823a3ea3d45c24872",
+      "items": 6542
     },
     {
       "file": "channel_events.json",
-      "sha256": "ad894ed0360bb210c8d009b7c283e4c26206adf289ec76b974dc05d88ec2c281",
-      "items": 2586
+      "sha256": "d0fb8832782725d74e5cda7d67b0525637baf615130b47aa030a0251172ae2a6",
+      "items": 2174
     }
   ]
 }
