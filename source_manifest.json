@@ -1,49 +1,55 @@
 {
   "schema_version": "1.0",
-  "snapshot_id": "2026-11-07T151028_0800_238be5c48065",
-  "as_of": "2026-11-07T15:10:28+08:00",
+  "snapshot_id": "2026-11-11T104349.235726_0800_6f6ae12e7326",
+  "as_of": "2026-11-11T10:43:49.235726+08:00",
   "request_contract_review": {
-    "sha256": "ad4273782db050e01df608f658cc0d80c22b941ab91a39aaf5c38f8aa13cf05f",
-    "source_snapshot_id": "2026-11-07T151028_0800_238be5c48065",
+    "sha256": "773fe76ff7615e25a7171e717c6f467ebd84a945f486a79948e454cbdd9a04cc",
+    "source_snapshot_id": "2026-11-11T104349.235726_0800_6f6ae12e7326",
     "applied_options": 2
   },
-  "latest_verified_at": "2026-11-07T14:27:03.355637+08:00",
+  "request_contract_source": {
+    "sha256": "c6cb8521560bf91d68f3c4a86899945df6311a415ec65795567cc410b3ec62d5",
+    "sourceSnapshotId": "2026-11-11T104349.235726_0800_6f6ae12e7326",
+    "sourceRows": 9678,
+    "projectedRows": 7544
+  },
+  "latest_verified_at": "2026-11-11T09:50:06.113509+08:00",
   "catalog": {
     "file": "api/catalog.json",
-    "sha256": "0dd08e29a8f3862b86948fd647ea31b77a8e5b88ed8abc9351c24370354e4c9e",
+    "sha256": "7eb91acdf953d46f01b1d5aacb1165ed72524573604eec957b49adb91428a59d",
     "stats": {
-      "models": 2828,
-      "registeredProviders": 111,
-      "verifiedProviders": 97,
-      "relationships": 7010
+      "models": 2750,
+      "registeredProviders": 113,
+      "verifiedProviders": 90,
+      "relationships": 6813
     },
-    "monitored_models": 1694
+    "monitored_models": 1808
   },
   "sources": [
     {
       "file": "provider_registry.json",
-      "sha256": "1a98efa8f1954a74507fcc965ef4d312e876c5bb1dd551e97b2f41fc1d6b1c2d",
-      "items": 111
+      "sha256": "e0d42b9b09fcfd3930285263ccca27ab343d7004d5d1a9eb79e17ecb28708fee",
+      "items": 113
     },
     {
       "file": "model_identity_registry.json",
-      "sha256": "36b4b6df24ce519cd3a734ef3539d3934f9fc950d8464bbf947dd0a2557063a3",
-      "items": 6542
+      "sha256": "b66e281337b66a9329bccc3f0ec87e8c587e62840c2822d808daf61cdaf7261e",
+      "items": 6984
     },
     {
       "file": "availability_matrix.json",
-      "sha256": "5fa66186f977b1b57d97d85bf9c317312efbf63c6a64302af21b4b98da57f86f",
-      "items": 12171
+      "sha256": "b01e8ca74f331a032a89ffc9c8c142096b1e15fcf68fd0be60f62aeb329adb7f",
+      "items": 12643
     },
     {
       "file": "model_channel_summary.json",
-      "sha256": "99ba5a33a062a18f6a998bce245a39c5811e6962df43176823a3ea3d45c24872",
-      "items": 6542
+      "sha256": "e452ba996edd4731be2a561a14494ab319d5a5605f1a0e2289af7fe8afad88f1",
+      "items": 6984
     },
     {
       "file": "channel_events.json",
-      "sha256": "d0fb8832782725d74e5cda7d67b0525637baf615130b47aa030a0251172ae2a6",
-      "items": 2174
+      "sha256": "776d7c1e9b78bf78145cdc461766fad37485f234b06ebff8529dfcc8ca7a4cf0",
+      "items": 1035
     }
   ]
 }
